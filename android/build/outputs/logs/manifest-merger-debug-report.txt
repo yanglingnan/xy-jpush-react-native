@@ -1,0 +1,217 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:1:1-95:12
+INJECTED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:1:1-95:12
+INJECTED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:1:1-95:12
+INJECTED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:1:1-95:12
+INJECTED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:1:1-95:12
+INJECTED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:1:1-95:12
+INJECTED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:1:1-95:12
+	package
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:2:5-38
+		INJECTED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:1:1-95:12
+		INJECTED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:1:1-95:12
+		INJECTED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:1:11-69
+permission#${applicationId}.permission.JPUSH_MESSAGE
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:4:5-6:47
+	android:protectionLevel
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:6:9-44
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:5:9-65
+uses-permission#${applicationId}.permission.JPUSH_MESSAGE
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:12:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:15:5-84
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:15:22-81
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:17:22-73
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:20:5-85
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:20:22-82
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:21:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:22:22-78
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:23:5-76
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:23:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:25:5-89
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:25:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:26:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:27:5-68
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:27:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:28:5-66
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:28:22-63
+application
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:30:5-93:19
+activity#cn.jpush.android.ui.PopWinActivity
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:31:9-34:52
+	android:exported
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:33:13-37
+	android:theme
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:34:13-49
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:32:13-62
+activity#cn.jpush.android.ui.PushActivity
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:36:9-47:20
+	android:exported
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:39:13-37
+	android:configChanges
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:38:13-63
+	android:theme
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:40:13-60
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:37:13-60
+intent-filter#action:name:cn.jpush.android.ui.PushActivity+category:name:${applicationId}+category:name:android.intent.category.DEFAULT
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:41:13-46:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:42:17-75
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:42:25-72
+category#android.intent.category.DEFAULT
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:44:17-76
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:44:27-73
+category#${applicationId}
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:45:17-61
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:45:27-58
+activity#cn.jpush.android.service.JNotifyActivity
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:49:9-58:20
+	android:exported
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:51:13-37
+	android:theme
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:53:13-72
+	android:taskAffinity
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:52:13-48
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:50:13-68
+intent-filter#action:name:cn.jpush.android.intent.JNotifyActivity+category:name:${applicationId}
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:54:13-57:29
+action#cn.jpush.android.intent.JNotifyActivity
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:55:17-82
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:55:25-79
+receiver#cn.jiguang.plugins.push.receiver.JPushModuleReceiver
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:60:9-68:20
+	android:enabled
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:62:13-35
+	android:exported
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:61:13-57
+intent-filter#action:name:cn.jpush.android.intent.RECEIVE_MESSAGE+category:name:${applicationId}
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:64:13-67:29
+action#cn.jpush.android.intent.RECEIVE_MESSAGE
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:65:17-82
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:65:25-79
+receiver#cn.jiguang.plugins.push.receiver.JPushBroadcastReceiver
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:70:9-78:20
+	android:enabled
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:72:13-35
+	android:exported
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:73:13-37
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:71:13-60
+intent-filter#action:name:cn.jpush.android.intent.NOTIFICATION_OPENED+category:name:${applicationId}
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:74:13-77:29
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:75:17-86
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:75:25-83
+receiver#cn.jpush.android.service.SchedulerReceiver
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:80:9-103
+	android:exported
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:80:77-101
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:80:19-76
+activity#cn.jpush.android.service.DActivity
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:82:9-91:20
+	android:enabled
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:83:13-35
+	android:exported
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:84:13-36
+	android:theme
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:85:13-72
+	android:taskAffinity
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:86:13-48
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:82:19-68
+intent-filter#action:name:cn.jpush.android.intent.DActivity+category:name:${applicationId}
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:87:13-90:29
+action#cn.jpush.android.intent.DActivity
+ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:88:17-75
+	android:name
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml:88:25-73
+uses-sdk
+INJECTED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Desktop/runner/node_modules/jpush-react-native/android/src/main/AndroidManifest.xml
